@@ -1,18 +1,12 @@
-<<<<<<< HEAD
-# Salary-Prediction-Web-App
-Project on Local (To be commited). 
-=======
 # Salary Prediction Web App
 
-An end-to-end salary intelligence platform that blends Scikit-learn modeling, a Plotly Dash analytics UI, and AWS-ready deployment tooling. Built as a showcase project for an early-career software engineering portfolio.
+An end-to-end salary intelligence platform that blends Scikit-learn modeling, a Plotly Dash analytics UI, and AWS-ready deployment tooling.
 
 ## Highlights
 
 - ✅ **90%+ R² accuracy** on a realistic synthetic dataset with 600 labelled salary samples.
 - 📊 **Interactive Plotly Dash experience** to explore compensation trends by role, education, and country.
-- ☁️ **Serverless AWS backend scaffolding** (Lambda + API Gateway via SAM) ready for deployment as a prediction microservice.
 - ♻️ **Reproducible data generation and training pipeline** with tracked metrics and feature importance reporting.
-- 🌐 **Render-ready hosting** with a one-click deployment workflow.
 
 ## Project Structure
 
@@ -97,4 +91,3 @@ Full instructions live in [`aws/README.md`](aws/README.md). In short:
 - Persist training runs with MLflow or Weights & Biases for experiment tracking.
 - Swap synthetic data for an authenticated dataset (e.g., Levels.fyi or Kaggle) when licensing allows.
 - Containerize the Dash app and inference API for Elastic Beanstalk or ECS deployment.
->>>>>>> 019c945 (Initial salary prediction app)
