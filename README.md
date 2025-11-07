@@ -2,6 +2,8 @@
 
 An end-to-end salary intelligence platform that blends Scikit-learn modeling, a Plotly Dash analytics UI, and AWS-ready deployment tooling.
 
+Link: https://salary-prediction-web-app-wb7c.onrender.com/
+
 ## Highlights
 
 - ✅ **90%+ R² accuracy** on a realistic synthetic dataset with 600 labelled salary samples.
@@ -61,7 +63,7 @@ The UI (http://127.0.0.1:8050 by default) lets you:
 
 ![Insight dashboards](screenshots/Screenshot%202025-11-07%20at%2009.34.54.png)
 
-> **Live Demo (Render):** _Deploy via the steps below, then drop your Render URL here_
+> **Live Demo (Render):** https://salary-prediction-web-app-wb7c.onrender.com/
 
 ### Deploy an AWS Prediction API
 
