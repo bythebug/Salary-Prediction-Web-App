@@ -8,4 +8,5 @@ venv/
 models/*.joblib
 data/raw/
 .ipynb_checkpoints
+dash_app.log
 
