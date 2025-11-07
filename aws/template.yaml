@@ -1,0 +1,57 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: SAM template for the salary prediction inference endpoint
+
+Globals:
+  Function:
+    Timeout: 10
+    MemorySize: 1024
+    Runtime: python3.11
+    Handler: aws.lambda_handler.lambda_handler
+    Environment:
+      Variables:
+        MODEL_PATH: /opt/models/salary_model.joblib
+
+Resources:
+  SalaryPredictionApi:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: ../
+      Description: Predict salaries from structured feature payloads
+      Events:
+        ApiEvent:
+          Type: Api
+          Properties:
+            Path: /predict
+            Method: post
+      Layers:
+        - !Ref ModelLayer
+
+  HealthCheck:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: ../
+      Description: Health check endpoint (reuses handler but GET method)
+      Events:
+        ApiEvent:
+          Type: Api
+          Properties:
+            Path: /predict
+            Method: get
+      Layers:
+        - !Ref ModelLayer
+
+  ModelLayer:
+    Type: AWS::Serverless::LayerVersion
+    Properties:
+      LayerName: salary-model-layer
+      Description: Pre-trained salary model artifact
+      ContentUri: ../models
+      CompatibleRuntimes:
+        - python3.11
+
+Outputs:
+  Endpoint:
+    Description: Invoke URL for salary predictions
+    Value: !Sub "https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/predict"
+

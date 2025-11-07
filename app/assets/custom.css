@@ -1,0 +1,12 @@
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner td, .dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner th {
+  font-size: 0.9rem;
+}
+
+.card-title {
+  font-weight: 600;
+}
+
+.dbc .card {
+  border-radius: 0.6rem;
+}
+

@@ -1,0 +1,601 @@
+experience_years,years_with_company,company_size,age,education_level,job_title,country,employment_type,remote_ratio,salary
+15.48,13.092470631861337,1000,47.3,Bachelor's,Backend Developer,United States,Contract,On-site,191600.0
+8.78,4.972837184079961,1000,30.7,Bachelor's,Software Engineer,Germany,Full-time,Remote,149400.0
+17.17,12.653360640179736,5000,42.4,PhD,Data Scientist,United States,Full-time,On-site,209700.0
+13.95,10.346520266408241,1000,35.4,Master's,Software Engineer,United Kingdom,Full-time,Hybrid,166000.0
+1.88,0.0,50,24.5,PhD,Frontend Developer,United Kingdom,Full-time,Hybrid,99900.0
+19.51,15.599974146309115,50,42.6,Bachelor's,Frontend Developer,Canada,Contract,Remote,173900.0
+15.22,10.885992808690368,1000,37.0,Bachelor's,Data Scientist,Germany,Full-time,On-site,171800.0
+15.72,15.149479644081815,1000,37.6,Bachelor's,Data Scientist,United States,Full-time,On-site,182200.0
+2.56,0.0,200,27.1,High School,Data Scientist,United States,Full-time,On-site,116800.0
+9.01,6.809556502363156,1000,30.4,Bachelor's,DevOps Engineer,India,Full-time,On-site,103100.0
+7.42,4.654480987943623,5000,34.9,Bachelor's,ML Engineer,United States,Full-time,On-site,173600.0
+18.54,15.269487952588214,5000,40.8,High School,Frontend Developer,United States,Full-time,Remote,185900.0
+12.88,8.030924416472153,1000,46.3,PhD,ML Engineer,United States,Full-time,On-site,203900.0
+16.46,11.537109592841878,200,40.1,High School,Frontend Developer,United States,Full-time,On-site,147600.0
+8.87,7.4288587725604724,200,34.1,Bachelor's,Backend Developer,United States,Contract,On-site,157700.0
+4.54,0.871232512810419,1000,25.7,Master's,Data Scientist,India,Full-time,Remote,85500.0
+11.09,7.340082310323657,200,41.2,High School,DevOps Engineer,India,Contract,Remote,98500.0
+1.28,0.0,1000,29.6,PhD,Frontend Developer,Germany,Full-time,Hybrid,129100.0
+16.55,15.930651125678896,1000,42.4,Master's,Frontend Developer,India,Full-time,Hybrid,124800.0
+12.63,12.425265198571402,50,33.6,High School,DevOps Engineer,United States,Full-time,Hybrid,147800.0
+15.16,11.273284362354108,50,40.8,Master's,Data Scientist,India,Full-time,Hybrid,101500.0
+7.09,4.64150129091547,200,28.7,Master's,Software Engineer,Canada,Full-time,On-site,132300.0
+19.41,14.48229915252537,5000,48.8,Master's,Backend Developer,United States,Contract,Hybrid,219800.0
+17.86,15.535132719031735,1000,45.3,Master's,Data Scientist,United Kingdom,Full-time,Remote,194500.0
+15.57,10.6804151046308,200,40.9,Master's,ML Engineer,United States,Full-time,On-site,200400.0
+3.89,1.8321199890297009,5000,21.6,Master's,Data Scientist,United States,Full-time,Hybrid,154200.0
+9.33,5.361589247200137,1000,31.4,Bachelor's,ML Engineer,United States,Full-time,Hybrid,169800.0
+0.88,0.4559036384408397,1000,27.9,Master's,ML Engineer,United States,Full-time,Hybrid,164500.0
+3.09,0.3126914493111803,5000,31.7,PhD,ML Engineer,United States,Full-time,On-site,179400.0
+13.66,9.64970106507138,50,42.0,Master's,Frontend Developer,Canada,Full-time,Hybrid,142100.0
+14.9,10.276491663900558,200,35.1,Master's,Backend Developer,United Kingdom,Full-time,Remote,163500.0
+19.35,15.237084546912843,1000,45.3,Bachelor's,ML Engineer,United States,Full-time,On-site,207800.0
+6.52,6.335146363994128,200,34.6,Master's,Software Engineer,Canada,Full-time,On-site,125700.0
+7.41,5.546488293466329,1000,27.4,PhD,Backend Developer,United States,Full-time,On-site,167800.0
+9.39,9.146507638430744,200,34.4,Bachelor's,Data Scientist,India,Full-time,On-site,88600.0
+3.79,3.24358854442721,50,29.6,Bachelor's,Data Scientist,United States,Full-time,Remote,138300.0
+2.6,0.0,200,26.7,Bachelor's,ML Engineer,United States,Full-time,Hybrid,142200.0
+9.51,5.943709018441509,1000,29.0,Bachelor's,Software Engineer,Canada,Full-time,On-site,135000.0
+4.54,0.6713965862418685,200,28.6,Master's,ML Engineer,India,Contract,On-site,87500.0
+13.4,9.072717259721685,50,37.4,High School,Data Scientist,India,Full-time,Remote,83800.0
+8.74,5.0428426576174505,5000,33.3,Bachelor's,DevOps Engineer,Germany,Full-time,On-site,162800.0
+16.65,12.64564203946684,200,40.0,Master's,DevOps Engineer,India,Contract,Hybrid,129200.0
+14.01,13.765181450883604,200,37.7,Master's,Software Engineer,United States,Full-time,On-site,172600.0
+6.25,5.077324247793507,50,31.1,Master's,Backend Developer,United States,Full-time,On-site,130600.0
+16.65,13.54051113312377,200,43.0,Master's,Backend Developer,United States,Intern,Hybrid,123400.0
+16.1,11.809373476875885,200,40.2,Master's,ML Engineer,United States,Contract,On-site,219600.0
+7.75,7.727499375301704,1000,31.5,Master's,ML Engineer,United States,Full-time,Hybrid,188600.0
+5.77,3.1968532894182506,200,31.0,Master's,Frontend Developer,Canada,Full-time,On-site,120600.0
+13.65,10.263563003178014,5000,32.9,Bachelor's,ML Engineer,United States,Full-time,Hybrid,204100.0
+2.8,2.651963554356934,5000,29.2,Master's,Software Engineer,Germany,Intern,Remote,77800.0
+4.0,1.9932222122330603,50,29.0,High School,ML Engineer,Canada,Contract,Hybrid,133400.0
+0.15,0.0,50,25.3,Bachelor's,Data Scientist,India,Full-time,On-site,47700.0
+15.74,12.381935955720706,50,43.6,Bachelor's,ML Engineer,Germany,Full-time,Hybrid,171800.0
+13.3,12.111708183197013,1000,32.4,PhD,Data Scientist,United States,Full-time,Remote,197100.0
+14.1,9.836094351840437,50,33.2,Master's,Software Engineer,United States,Full-time,On-site,159100.0
+15.61,13.869842882952428,5000,41.4,High School,DevOps Engineer,Germany,Full-time,On-site,176000.0
+9.18,4.913276644279702,5000,34.2,Master's,Software Engineer,Germany,Full-time,Remote,167300.0
+11.37,9.875281744405472,5000,36.9,Bachelor's,Frontend Developer,United States,Full-time,On-site,154100.0
+2.8,0.0,1000,26.4,Master's,Frontend Developer,United States,Full-time,Hybrid,121900.0
+2.29,0.30529966126082964,10000,29.3,Master's,Backend Developer,India,Full-time,Remote,94400.0
+13.37,11.995874746224665,50,41.2,Master's,DevOps Engineer,Germany,Full-time,On-site,172200.0
+9.42,4.987212189140654,1000,35.9,Master's,Software Engineer,United States,Full-time,Hybrid,154600.0
+11.3,10.362031590302545,200,35.5,Bachelor's,Data Scientist,United States,Full-time,Hybrid,162500.0
+15.3,14.875942043821185,5000,34.0,Bachelor's,Data Scientist,United Kingdom,Intern,On-site,127500.0
+12.69,10.980365307271697,1000,40.0,PhD,Backend Developer,United States,Full-time,Remote,194500.0
+11.07,7.4818042617921625,5000,39.7,Master's,Backend Developer,India,Full-time,On-site,113300.0
+11.18,7.1428419701185915,200,38.1,Bachelor's,DevOps Engineer,United States,Full-time,On-site,166200.0
+6.08,1.0862831496661762,10000,28.4,Bachelor's,ML Engineer,Canada,Full-time,Remote,164000.0
+0.62,0.0,1000,27.6,High School,Data Scientist,United States,Full-time,On-site,117800.0
+8.73,6.69029024434359,1000,36.3,High School,DevOps Engineer,United States,Full-time,Remote,158300.0
+4.29,3.6058936098518686,10000,34.0,Bachelor's,Frontend Developer,United Kingdom,Full-time,On-site,126500.0
+8.17,5.295640351884832,200,30.5,Bachelor's,Frontend Developer,Canada,Full-time,Hybrid,122600.0
+17.07,12.082099813685414,200,41.4,PhD,ML Engineer,Australia,Full-time,On-site,200300.0
+4.68,1.1755949493967073,1000,31.9,Bachelor's,ML Engineer,United States,Full-time,Hybrid,158800.0
+1.17,0.0,50,26.3,Bachelor's,ML Engineer,India,Full-time,Remote,60200.0
+5.63,3.6681545353910296,200,27.3,High School,Frontend Developer,United Kingdom,Full-time,Remote,111900.0
+5.87,1.293506198572226,200,32.1,Bachelor's,Data Scientist,Germany,Full-time,Remote,134900.0
+13.24,10.755417019348254,50,40.0,Master's,DevOps Engineer,United States,Full-time,Hybrid,175100.0
+11.14,10.468165433434693,5000,36.4,Bachelor's,Data Scientist,India,Full-time,Remote,116400.0
+15.68,13.853107684004332,1000,41.3,Master's,ML Engineer,Canada,Full-time,Hybrid,198700.0
+13.29,12.954166655761165,200,37.5,Master's,Data Scientist,United Kingdom,Full-time,Remote,161700.0
+8.13,7.120104811556093,1000,37.6,High School,Backend Developer,United States,Intern,Hybrid,91800.0
+16.28,16.19165609500044,1000,38.6,Master's,Frontend Developer,United States,Intern,Remote,123000.0
+3.34,1.0736004174991827,1000,26.6,PhD,DevOps Engineer,United States,Intern,On-site,90600.0
+0.45,0.0,5000,25.5,Bachelor's,Frontend Developer,India,Full-time,Hybrid,66900.0
+1.8,0.08353768810546125,5000,29.4,High School,Data Scientist,Australia,Full-time,Hybrid,122700.0
+14.45,12.348091142473614,200,35.0,PhD,Data Scientist,United States,Full-time,On-site,195300.0
+9.24,4.44395363577712,200,30.3,PhD,DevOps Engineer,India,Full-time,On-site,96100.0
+3.23,0.0,1000,22.1,Bachelor's,ML Engineer,United Kingdom,Full-time,Remote,148700.0
+10.02,7.315716815275243,1000,35.1,Master's,Software Engineer,United States,Full-time,On-site,160500.0
+3.05,1.6272956244408736,1000,24.7,Bachelor's,Frontend Developer,United States,Full-time,On-site,124200.0
+13.93,9.445016006135024,1000,37.8,Master's,Backend Developer,India,Full-time,On-site,114700.0
+8.92,7.7445144155967025,1000,35.9,Bachelor's,Software Engineer,Germany,Full-time,On-site,147600.0
+7.62,5.993286347416615,200,30.7,High School,Frontend Developer,United States,Full-time,Hybrid,120500.0
+6.03,1.4846759278852577,200,31.7,Master's,Backend Developer,India,Full-time,Remote,76900.0
+12.61,9.962289723574639,200,36.7,PhD,Backend Developer,Canada,Contract,Remote,182100.0
+7.24,3.528410252910117,50,34.3,Master's,DevOps Engineer,United Kingdom,Full-time,Hybrid,137600.0
+1.75,0.0,200,28.2,Bachelor's,ML Engineer,United Kingdom,Full-time,Hybrid,124900.0
+2.36,0.0,1000,25.3,High School,ML Engineer,India,Full-time,On-site,75600.0
+19.24,17.74308354242587,200,43.7,PhD,Backend Developer,Canada,Full-time,Remote,201100.0
+18.17,16.963139691866687,200,46.3,PhD,Data Scientist,United States,Full-time,On-site,198400.0
+13.99,12.377538264156673,1000,40.2,Bachelor's,Software Engineer,Canada,Full-time,On-site,154500.0
+5.32,4.542792179582888,5000,26.1,Master's,DevOps Engineer,United States,Full-time,Remote,171900.0
+19.38,15.008428173545962,200,46.3,Bachelor's,Data Scientist,Germany,Full-time,Remote,197100.0
+15.58,14.16376533374943,5000,37.3,Bachelor's,Backend Developer,United States,Full-time,On-site,188000.0
+14.34,11.532553027928078,5000,43.6,High School,Data Scientist,Canada,Contract,Hybrid,179400.0
+8.99,5.03012787429313,1000,37.1,High School,Data Scientist,United States,Full-time,Hybrid,142400.0
+5.44,1.5208794531214327,1000,31.3,Bachelor's,Backend Developer,United States,Full-time,On-site,138900.0
+1.93,0.0,50,27.4,Master's,Frontend Developer,United States,Full-time,On-site,112900.0
+18.05,15.668713457066373,5000,42.4,High School,ML Engineer,Germany,Full-time,On-site,195100.0
+9.12,4.146491255324875,200,36.2,Bachelor's,Software Engineer,India,Full-time,Hybrid,87300.0
+4.05,0.6770126151048794,5000,27.9,Bachelor's,Data Scientist,United States,Full-time,On-site,156500.0
+6.12,2.0468077844105865,1000,31.8,Bachelor's,Software Engineer,India,Full-time,Hybrid,77000.0
+11.58,7.06723015390384,50,39.2,Bachelor's,DevOps Engineer,India,Full-time,On-site,87300.0
+3.54,0.0,50,26.9,Master's,Data Scientist,United States,Full-time,Remote,136500.0
+17.13,16.20410327523216,1000,40.3,Bachelor's,ML Engineer,Germany,Full-time,Hybrid,207000.0
+15.17,12.35914633131214,1000,36.6,Master's,Software Engineer,United States,Contract,Remote,205700.0
+14.39,13.880529213427277,50,36.2,PhD,ML Engineer,United States,Full-time,On-site,198400.0
+8.64,5.375389367180008,1000,28.2,Bachelor's,DevOps Engineer,Canada,Contract,Hybrid,164700.0
+12.55,7.773252859060946,5000,39.7,PhD,ML Engineer,United States,Full-time,Remote,218400.0
+11.68,9.116339678499443,1000,42.1,PhD,Backend Developer,United Kingdom,Full-time,On-site,168000.0
+13.0,10.835137535661165,1000,42.3,Master's,Data Scientist,United Kingdom,Full-time,On-site,166300.0
+1.69,1.510786242909184,50,21.8,Master's,Software Engineer,India,Contract,On-site,60700.0
+8.32,3.5211273883538983,5000,35.5,Master's,Frontend Developer,Germany,Full-time,On-site,152000.0
+0.83,0.31498657934920604,200,30.1,Master's,Software Engineer,Germany,Full-time,On-site,113900.0
+9.88,9.674604533475765,5000,33.5,Master's,ML Engineer,Australia,Full-time,On-site,184600.0
+6.6,5.369666942475307,200,31.9,High School,Data Scientist,United States,Full-time,On-site,131300.0
+2.89,2.562347830408088,1000,21.9,PhD,Software Engineer,United States,Full-time,Hybrid,148900.0
+2.07,0.0,200,27.9,Master's,Backend Developer,Germany,Full-time,On-site,129500.0
+11.75,9.169560993714438,200,33.6,Master's,DevOps Engineer,United States,Full-time,On-site,177000.0
+3.41,1.8471502548570804,5000,29.0,Bachelor's,Software Engineer,United States,Full-time,Hybrid,142000.0
+18.5,18.24519758712557,1000,38.8,High School,Frontend Developer,United States,Full-time,On-site,170200.0
+11.62,11.061998158753866,1000,38.2,Bachelor's,Backend Developer,Germany,Full-time,On-site,156600.0
+6.94,5.0174781100503605,10000,35.0,Bachelor's,Frontend Developer,United States,Full-time,On-site,150600.0
+11.82,11.51735774586732,10000,34.5,Bachelor's,Software Engineer,United States,Full-time,On-site,173100.0
+0.46,0.0,5000,22.0,Bachelor's,DevOps Engineer,United States,Full-time,Hybrid,138200.0
+19.17,18.134897292375943,200,37.7,Bachelor's,Software Engineer,United States,Contract,On-site,190400.0
+9.65,8.139642156081807,1000,33.9,Bachelor's,DevOps Engineer,United Kingdom,Full-time,On-site,152000.0
+15.65,13.679371114109513,5000,38.9,Bachelor's,Backend Developer,United States,Full-time,Remote,192200.0
+1.65,0.0,200,22.0,PhD,ML Engineer,India,Full-time,Remote,87700.0
+9.73,9.721696461625998,50,36.1,Bachelor's,Software Engineer,India,Full-time,On-site,83900.0
+9.81,9.249648145006512,5000,33.5,Bachelor's,Backend Developer,United States,Full-time,On-site,171700.0
+18.76,14.44617718129561,1000,40.5,Bachelor's,Software Engineer,India,Full-time,Hybrid,128400.0
+11.43,11.42383468744046,1000,34.8,Bachelor's,Backend Developer,India,Contract,Remote,115400.0
+9.47,6.929163220935625,10000,37.7,Bachelor's,Frontend Developer,Germany,Full-time,Remote,154800.0
+5.34,2.8924899674639595,1000,32.1,Master's,Data Scientist,United States,Full-time,On-site,153900.0
+6.63,4.964529194946811,1000,31.2,PhD,Data Scientist,United States,Full-time,On-site,167200.0
+10.41,8.253364899267751,200,37.3,Bachelor's,Data Scientist,Australia,Full-time,On-site,141300.0
+8.78,4.877094312367078,1000,30.3,Master's,Data Scientist,India,Full-time,Remote,100000.0
+0.43,0.0,50,25.5,High School,Software Engineer,United Kingdom,Full-time,Remote,86900.0
+16.53,15.228257282923751,5000,42.0,Bachelor's,Data Scientist,United Kingdom,Intern,On-site,128900.0
+17.92,16.30754779516135,5000,41.5,Bachelor's,Backend Developer,United States,Full-time,Hybrid,199300.0
+2.8,1.5875857348583362,200,29.1,High School,Data Scientist,India,Full-time,On-site,59100.0
+11.08,8.680682997244674,200,33.7,Master's,Frontend Developer,Canada,Intern,Hybrid,91000.0
+2.17,0.0,5000,28.7,Master's,Frontend Developer,India,Full-time,Remote,79000.0
+13.44,12.298735622682896,50,40.1,Master's,Frontend Developer,United States,Full-time,Hybrid,144900.0
+5.62,3.9663212897256668,1000,21.9,Bachelor's,Backend Developer,United States,Full-time,On-site,139700.0
+13.19,8.538076912054247,1000,41.8,Master's,Data Scientist,India,Full-time,Hybrid,119400.0
+14.54,14.29715355076521,1000,30.4,Bachelor's,DevOps Engineer,India,Full-time,On-site,114300.0
+15.37,13.066151973802167,200,38.5,High School,Data Scientist,Germany,Full-time,Remote,165000.0
+2.15,0.0,1000,30.2,High School,ML Engineer,United States,Full-time,On-site,141600.0
+18.32,17.56772994221263,200,42.4,Master's,ML Engineer,United States,Contract,Remote,235700.0
+4.6,4.3631298999725905,1000,25.2,PhD,Frontend Developer,Australia,Full-time,On-site,135000.0
+0.75,0.05897314180734625,50,22.5,High School,Backend Developer,United States,Full-time,On-site,93600.0
+11.1,6.505884032346585,1000,39.2,Master's,Frontend Developer,United States,Full-time,On-site,163800.0
+7.42,7.373701090894383,1000,26.7,Master's,DevOps Engineer,Germany,Full-time,On-site,162300.0
+16.6,15.658390125943242,200,45.0,Master's,ML Engineer,United States,Full-time,On-site,204900.0
+16.17,16.013582435491777,50,41.0,Bachelor's,DevOps Engineer,Germany,Full-time,Hybrid,178800.0
+6.34,5.786852662188983,200,27.8,Master's,Data Scientist,United States,Full-time,On-site,153800.0
+19.06,15.959253566858518,200,42.3,Master's,DevOps Engineer,India,Full-time,On-site,127900.0
+5.82,4.611805456304571,50,27.8,PhD,Data Scientist,United Kingdom,Full-time,On-site,131600.0
+10.3,7.453939747846617,5000,37.9,High School,DevOps Engineer,United Kingdom,Full-time,On-site,153300.0
+5.12,2.1690230861693696,1000,32.3,PhD,ML Engineer,Germany,Full-time,Remote,177500.0
+18.72,14.472823334551103,5000,38.6,High School,DevOps Engineer,United States,Full-time,Remote,193000.0
+3.29,3.2662930354406305,10000,27.1,Master's,Software Engineer,India,Full-time,On-site,88000.0
+0.9,0.0,50,23.3,High School,ML Engineer,India,Full-time,Remote,51500.0
+8.7,5.60440456786513,1000,37.6,Bachelor's,DevOps Engineer,Germany,Full-time,Hybrid,164400.0
+19.85,19.036282569475212,5000,40.8,High School,Software Engineer,India,Full-time,Remote,140700.0
+17.83,13.965313059323577,1000,47.6,Bachelor's,Data Scientist,India,Contract,On-site,130200.0
+14.97,10.692542291047072,1000,39.9,Bachelor's,Software Engineer,India,Full-time,On-site,109600.0
+17.82,16.548682581229215,1000,39.3,Bachelor's,Data Scientist,India,Full-time,Hybrid,123500.0
+17.87,13.276031595486597,50,40.8,Bachelor's,ML Engineer,United States,Full-time,Remote,193700.0
+10.38,8.107712848506711,1000,33.0,Bachelor's,Backend Developer,Canada,Full-time,Hybrid,154000.0
+6.32,3.3028777283333928,10000,27.5,Master's,Data Scientist,Germany,Full-time,Hybrid,173600.0
+15.44,10.516752331911782,10000,40.7,PhD,Software Engineer,United States,Full-time,On-site,200000.0
+13.23,11.422319606804004,50,34.5,Master's,Data Scientist,India,Full-time,Hybrid,102500.0
+7.47,3.404203270899435,1000,25.9,High School,DevOps Engineer,Germany,Full-time,Remote,144500.0
+1.89,0.2980044108577016,200,25.8,Bachelor's,DevOps Engineer,United States,Full-time,On-site,125900.0
+14.94,10.943932388792545,5000,34.5,PhD,Data Scientist,India,Full-time,Hybrid,142000.0
+5.25,2.2463304056867877,50,28.0,High School,Data Scientist,India,Full-time,On-site,61300.0
+18.74,17.658221523872992,5000,41.0,Bachelor's,Software Engineer,India,Full-time,Hybrid,146700.0
+4.82,2.749869531053818,5000,27.2,PhD,DevOps Engineer,United States,Full-time,Hybrid,182100.0
+2.46,0.8718218281821914,50,33.5,PhD,Frontend Developer,India,Contract,Remote,61000.0
+16.62,16.22945803459818,50,41.8,Bachelor's,Frontend Developer,United States,Full-time,Remote,163100.0
+3.07,2.9208261495015124,5000,28.8,Master's,Data Scientist,Germany,Full-time,On-site,146800.0
+3.59,1.8576067229640953,200,23.3,Bachelor's,Backend Developer,United States,Full-time,On-site,125700.0
+11.99,11.894829260912568,1000,35.0,Master's,Software Engineer,Germany,Full-time,On-site,164200.0
+17.49,16.662561212091124,5000,43.1,High School,Frontend Developer,India,Contract,On-site,143000.0
+3.93,0.3040833957456561,1000,25.9,High School,Backend Developer,Germany,Full-time,On-site,113700.0
+6.21,2.6695438215820606,200,33.9,Master's,Data Scientist,Canada,Full-time,On-site,136800.0
+15.55,11.857098067713087,1000,36.9,Bachelor's,Frontend Developer,India,Full-time,On-site,115300.0
+19.44,17.85423414435011,50,43.6,Master's,Backend Developer,India,Contract,On-site,128800.0
+10.01,5.559902714411522,10000,33.3,Bachelor's,ML Engineer,United States,Full-time,On-site,186900.0
+2.88,0.0,200,28.4,PhD,Data Scientist,Australia,Full-time,Remote,138200.0
+0.28,0.0,200,23.4,Master's,Software Engineer,India,Full-time,On-site,57700.0
+4.59,3.871406692722329,200,28.8,Bachelor's,DevOps Engineer,Australia,Full-time,Hybrid,135300.0
+2.64,0.0,10000,26.9,Master's,Data Scientist,Australia,Full-time,Remote,154700.0
+13.55,12.68528031778961,50,36.3,Bachelor's,Data Scientist,United Kingdom,Full-time,Hybrid,152500.0
+2.44,0.0,5000,28.9,Bachelor's,Frontend Developer,India,Full-time,On-site,79200.0
+10.13,5.171127620356447,1000,35.8,Bachelor's,Data Scientist,Germany,Full-time,On-site,158400.0
+13.89,13.869961976333304,5000,38.6,PhD,ML Engineer,United States,Contract,Hybrid,241700.0
+11.62,11.537100990512215,10000,35.3,Master's,Frontend Developer,Canada,Full-time,Hybrid,161500.0
+4.0,0.0,5000,31.4,PhD,Backend Developer,India,Full-time,On-site,87200.0
+16.08,13.156805829329171,5000,40.4,PhD,Backend Developer,Canada,Intern,On-site,128800.0
+14.31,13.675450122407435,50,38.4,PhD,Software Engineer,India,Full-time,Hybrid,107400.0
+14.78,10.293489001229531,5000,40.1,Bachelor's,ML Engineer,United States,Contract,On-site,214000.0
+2.62,0.0,1000,32.7,PhD,ML Engineer,United States,Full-time,Hybrid,167600.0
+2.48,0.0,1000,23.5,Master's,Backend Developer,Canada,Intern,On-site,63900.0
+18.55,15.441039850696217,5000,45.9,Bachelor's,Software Engineer,United States,Full-time,On-site,184700.0
+7.95,6.584064042495618,10000,27.3,Master's,Software Engineer,United States,Full-time,Remote,172400.0
+6.02,5.767401518139974,1000,31.7,Bachelor's,Frontend Developer,United States,Full-time,On-site,128700.0
+9.77,6.797161955545677,1000,39.5,Bachelor's,Frontend Developer,India,Full-time,Hybrid,89000.0
+13.26,11.786224033986185,1000,39.7,Bachelor's,Frontend Developer,Canada,Contract,On-site,159500.0
+19.11,15.79189476669824,200,44.6,High School,Data Scientist,United States,Full-time,On-site,170300.0
+5.73,1.548774115786994,200,29.0,Bachelor's,DevOps Engineer,United States,Full-time,Remote,151500.0
+18.5,18.40919728042818,200,43.6,PhD,Data Scientist,Canada,Full-time,On-site,194500.0
+0.5,0.0,50,24.7,Master's,Backend Developer,United States,Full-time,On-site,115300.0
+11.1,9.943597301565738,50,33.7,Bachelor's,Software Engineer,India,Full-time,Remote,87600.0
+12.68,8.310557510480994,5000,36.8,Bachelor's,DevOps Engineer,India,Full-time,Hybrid,121700.0
+2.12,0.8516774671908576,1000,27.7,Bachelor's,Data Scientist,United States,Full-time,Hybrid,133400.0
+2.81,0.0,5000,25.5,Bachelor's,Frontend Developer,Germany,Contract,On-site,131600.0
+8.38,5.612295799551943,1000,31.0,Master's,Data Scientist,United States,Full-time,On-site,169600.0
+19.32,17.339167499703755,50,40.2,Bachelor's,Frontend Developer,United States,Full-time,Hybrid,172900.0
+11.92,8.531896182001029,200,38.1,Master's,ML Engineer,United Kingdom,Full-time,On-site,171100.0
+18.66,15.031151826422832,200,45.3,Master's,Software Engineer,Canada,Full-time,On-site,176000.0
+16.09,13.255311023403067,10000,41.8,Master's,Data Scientist,United Kingdom,Full-time,Remote,189900.0
+9.35,5.557888814076229,200,37.2,PhD,Frontend Developer,United States,Full-time,On-site,155800.0
+15.7,10.78291462003531,1000,41.0,Bachelor's,Data Scientist,United States,Full-time,On-site,182500.0
+0.36,0.0,5000,26.5,PhD,Data Scientist,Canada,Full-time,On-site,144300.0
+2.18,0.0,10000,28.1,Master's,Backend Developer,Canada,Full-time,On-site,138500.0
+16.59,16.527650610293932,200,41.3,Master's,Data Scientist,Australia,Full-time,Hybrid,182300.0
+15.94,11.959857218448107,50,39.3,Master's,Software Engineer,United States,Full-time,Remote,173000.0
+4.65,2.048849664770031,200,36.3,Master's,Backend Developer,India,Full-time,On-site,74900.0
+10.62,8.580192848197173,50,34.3,PhD,Frontend Developer,India,Full-time,On-site,86600.0
+12.12,11.64964018455302,200,35.1,Bachelor's,Frontend Developer,Germany,Full-time,Hybrid,149400.0
+17.35,12.901717891623015,1000,43.7,Master's,DevOps Engineer,United States,Full-time,On-site,195400.0
+12.06,10.084963799797219,5000,37.8,Master's,Software Engineer,Canada,Full-time,Hybrid,165300.0
+8.25,4.837092008953898,1000,29.0,Bachelor's,ML Engineer,United States,Full-time,Remote,186700.0
+7.48,6.733129218159247,1000,35.8,PhD,Data Scientist,India,Full-time,Hybrid,98600.0
+8.52,3.7122518522948367,200,33.2,Bachelor's,DevOps Engineer,Canada,Contract,On-site,151300.0
+13.04,12.147791190890844,5000,34.7,Master's,Backend Developer,United Kingdom,Full-time,Remote,176300.0
+17.35,16.35229003550255,1000,45.9,High School,Software Engineer,Germany,Full-time,On-site,167200.0
+9.08,4.785085697211431,5000,36.0,Bachelor's,Frontend Developer,Canada,Full-time,Remote,143900.0
+4.96,0.39708627929034446,5000,26.2,Master's,Software Engineer,India,Full-time,Hybrid,87100.0
+4.73,3.6692629623834936,200,35.1,Bachelor's,Data Scientist,Canada,Full-time,Hybrid,129900.0
+14.92,12.57099555912586,50,41.9,Bachelor's,Frontend Developer,United Kingdom,Contract,Remote,153400.0
+16.33,12.662525477185849,200,41.3,Bachelor's,Backend Developer,United States,Full-time,Hybrid,176800.0
+2.11,0.0,1000,31.9,Bachelor's,Frontend Developer,Australia,Full-time,On-site,113900.0
+1.33,0.0,5000,26.8,Master's,Backend Developer,India,Full-time,On-site,82900.0
+11.89,9.304902565752855,200,36.8,PhD,DevOps Engineer,India,Full-time,Hybrid,110800.0
+2.92,0.0,5000,25.9,High School,Backend Developer,Canada,Full-time,Hybrid,132800.0
+16.49,12.834320116736022,1000,43.2,Master's,Software Engineer,India,Full-time,On-site,126500.0
+6.21,2.2951993498695753,200,32.6,Bachelor's,Software Engineer,United States,Full-time,Hybrid,132300.0
+2.88,0.03033090679236805,200,27.9,Master's,Frontend Developer,India,Intern,Hybrid,40000.0
+18.42,17.896924515976124,1000,41.1,Bachelor's,Software Engineer,United States,Full-time,On-site,184700.0
+3.31,0.0,1000,28.7,Bachelor's,ML Engineer,United States,Intern,On-site,86800.0
+5.69,1.3621373033948592,1000,30.5,Bachelor's,Software Engineer,United States,Full-time,On-site,141400.0
+3.07,0.0,200,24.1,Master's,Data Scientist,United States,Full-time,On-site,142700.0
+2.31,1.8106876141963526,1000,22.9,Bachelor's,Backend Developer,United States,Full-time,On-site,133600.0
+0.42,0.0,200,27.1,Bachelor's,Data Scientist,India,Full-time,On-site,53400.0
+1.11,0.0,5000,20.0,Master's,ML Engineer,United States,Intern,On-site,89600.0
+3.49,3.374299527090268,200,29.1,Master's,DevOps Engineer,India,Full-time,On-site,71500.0
+1.07,0.0,50,24.6,Bachelor's,Software Engineer,United States,Contract,Hybrid,114300.0
+11.82,9.934276598221597,1000,40.7,Master's,Software Engineer,India,Full-time,On-site,107500.0
+13.61,10.013437331545882,1000,37.1,PhD,Data Scientist,India,Full-time,Remote,126200.0
+7.87,3.4321445575597833,1000,34.8,Bachelor's,Frontend Developer,United States,Full-time,Remote,148300.0
+6.36,4.386850559249589,1000,30.2,Master's,ML Engineer,India,Full-time,Hybrid,101500.0
+10.09,8.49433755700167,10000,35.4,Bachelor's,Backend Developer,United Kingdom,Contract,Remote,177900.0
+17.5,14.456294355508767,1000,44.7,Master's,Software Engineer,India,Full-time,Remote,126200.0
+17.02,14.115053131259746,1000,40.6,Bachelor's,Frontend Developer,United States,Full-time,On-site,172500.0
+0.87,0.0,1000,28.9,Master's,Software Engineer,Canada,Full-time,Hybrid,113000.0
+3.63,0.6211262206614574,50,25.6,Bachelor's,Frontend Developer,India,Full-time,On-site,46500.0
+4.73,0.05309315216752708,1000,30.6,Bachelor's,Software Engineer,United States,Full-time,Hybrid,135800.0
+4.99,2.6517987168670176,200,32.8,PhD,DevOps Engineer,India,Full-time,Hybrid,82000.0
+11.42,10.436289096246844,1000,38.4,Bachelor's,Data Scientist,United States,Full-time,On-site,172100.0
+8.33,6.443970085584981,50,39.1,PhD,Data Scientist,India,Full-time,On-site,91400.0
+0.99,0.0,10000,23.7,PhD,ML Engineer,United States,Full-time,Remote,183300.0
+7.47,6.8144565348689,1000,28.3,PhD,Software Engineer,United States,Full-time,On-site,162300.0
+10.48,9.665642497227227,5000,32.5,Bachelor's,Software Engineer,Australia,Full-time,On-site,152700.0
+2.03,0.0,1000,29.0,Master's,Backend Developer,India,Full-time,On-site,65200.0
+16.67,14.972611228955488,50,43.2,High School,Data Scientist,United Kingdom,Contract,Hybrid,162300.0
+1.04,0.0,5000,26.3,Bachelor's,ML Engineer,Australia,Full-time,Remote,149200.0
+18.5,17.282016273206963,1000,40.1,PhD,Frontend Developer,United States,Full-time,Remote,200900.0
+1.98,1.4853774744758885,5000,29.3,Master's,Software Engineer,United States,Full-time,On-site,148500.0
+16.87,13.102477184998712,1000,38.2,Bachelor's,ML Engineer,United States,Full-time,On-site,194900.0
+18.05,13.64481974041065,1000,46.5,Bachelor's,Data Scientist,Canada,Full-time,On-site,180300.0
+19.59,18.19943321564256,5000,53.2,Master's,ML Engineer,United States,Full-time,Hybrid,229500.0
+16.04,15.02955949177261,1000,42.1,Master's,Data Scientist,United Kingdom,Full-time,Remote,191400.0
+15.59,14.661169325644565,200,42.3,Bachelor's,Software Engineer,United States,Full-time,Hybrid,169600.0
+12.85,10.239938493167438,1000,36.4,PhD,Software Engineer,United States,Full-time,On-site,179600.0
+15.58,13.237916793766146,1000,35.1,Bachelor's,DevOps Engineer,United States,Full-time,Hybrid,186300.0
+2.69,1.3928008007273287,10000,25.9,Bachelor's,Software Engineer,United States,Full-time,On-site,134700.0
+10.72,10.49413441505287,200,32.4,Master's,Frontend Developer,United States,Full-time,Hybrid,157700.0
+10.28,7.872543298368596,1000,30.9,PhD,DevOps Engineer,Germany,Full-time,Hybrid,188600.0
+17.15,12.353338261821957,5000,47.3,Bachelor's,ML Engineer,United States,Full-time,Hybrid,213600.0
+9.26,5.997403996236684,1000,35.1,Bachelor's,Data Scientist,Germany,Full-time,Hybrid,151500.0
+7.7,5.2224672168569075,1000,33.8,High School,Frontend Developer,United Kingdom,Full-time,Remote,125300.0
+12.79,12.236539629851919,1000,36.9,PhD,DevOps Engineer,Germany,Full-time,On-site,199600.0
+5.33,4.067818547252063,200,29.8,Bachelor's,Software Engineer,India,Full-time,On-site,71800.0
+2.8,1.3261302521272862,1000,30.7,Bachelor's,DevOps Engineer,United States,Full-time,On-site,147000.0
+9.56,5.735982236963829,50,34.5,PhD,DevOps Engineer,United States,Full-time,Hybrid,166600.0
+8.34,3.956446013676903,200,34.9,High School,Software Engineer,United States,Intern,Hybrid,75800.0
+4.65,0.14179073216780846,1000,29.1,Master's,Software Engineer,Australia,Full-time,Hybrid,134500.0
+7.35,2.427156958746229,1000,31.3,Bachelor's,Frontend Developer,Germany,Full-time,Hybrid,133900.0
+7.33,2.418166584477338,5000,28.1,Master's,Software Engineer,United States,Full-time,On-site,153400.0
+6.55,1.7850043361600925,200,25.6,Bachelor's,Backend Developer,Canada,Full-time,Hybrid,122200.0
+7.59,7.230889297485578,50,31.8,Bachelor's,Software Engineer,India,Full-time,Hybrid,78600.0
+13.71,13.021032320360975,10000,38.9,Bachelor's,Frontend Developer,Germany,Full-time,On-site,174000.0
+5.94,4.417667367619836,200,27.1,Master's,Data Scientist,Germany,Contract,On-site,162700.0
+18.98,16.215508729677694,200,43.9,Master's,Software Engineer,United Kingdom,Full-time,On-site,179300.0
+18.33,17.8451105564726,200,43.5,High School,Software Engineer,India,Full-time,On-site,116100.0
+9.62,5.391015210989287,1000,28.2,Bachelor's,Data Scientist,Germany,Full-time,Remote,159800.0
+6.57,3.486219104613455,5000,28.8,PhD,Backend Developer,United States,Full-time,Remote,182300.0
+10.71,7.998177988488976,5000,36.9,High School,Software Engineer,United States,Intern,Hybrid,105200.0
+16.97,16.143443383163543,1000,43.1,Bachelor's,Frontend Developer,Australia,Full-time,On-site,162800.0
+13.05,11.783722627999014,200,34.6,Master's,Backend Developer,Germany,Full-time,Hybrid,162400.0
+16.09,15.28843987508871,200,41.6,Bachelor's,Data Scientist,United States,Full-time,Hybrid,182300.0
+10.65,6.3903342110260075,1000,38.7,Bachelor's,DevOps Engineer,Germany,Full-time,On-site,161100.0
+12.66,9.738860699693909,50,40.0,Bachelor's,Backend Developer,United States,Full-time,Remote,159300.0
+5.76,2.0843528624018326,200,30.5,Bachelor's,Frontend Developer,India,Full-time,On-site,72900.0
+14.7,13.21983568544987,200,38.3,Bachelor's,Data Scientist,United States,Contract,On-site,188800.0
+4.05,2.193736814558614,50,27.2,Master's,Frontend Developer,India,Full-time,On-site,65900.0
+13.9,11.87572517786733,1000,40.3,Master's,Backend Developer,Canada,Full-time,On-site,161200.0
+17.21,13.409925141279826,1000,42.8,High School,DevOps Engineer,United States,Full-time,Remote,189200.0
+2.64,0.0,50,29.5,Master's,ML Engineer,United States,Full-time,On-site,147400.0
+12.29,11.25593236242984,1000,37.7,Bachelor's,Frontend Developer,India,Full-time,On-site,97100.0
+1.9,0.0,5000,29.4,Master's,ML Engineer,United States,Full-time,On-site,162900.0
+14.51,13.906723312781567,1000,39.8,Bachelor's,Software Engineer,United States,Full-time,On-site,167200.0
+1.69,0.0,5000,29.0,Master's,Software Engineer,India,Full-time,On-site,77400.0
+18.72,18.21802177175095,1000,46.3,Bachelor's,DevOps Engineer,United States,Contract,On-site,221600.0
+2.75,1.4273009442434446,5000,25.3,Bachelor's,Frontend Developer,United States,Full-time,Hybrid,139700.0
+19.18,14.947607319660214,200,38.8,Bachelor's,ML Engineer,United States,Full-time,On-site,197800.0
+16.02,15.122539638269563,200,45.7,High School,Frontend Developer,India,Full-time,Remote,109600.0
+11.87,9.80216034345015,200,37.6,Bachelor's,Software Engineer,United States,Full-time,On-site,153700.0
+15.65,13.40070350027937,1000,35.5,Master's,Software Engineer,United States,Full-time,Hybrid,185400.0
+15.9,14.673705134883953,200,38.8,Master's,Backend Developer,United States,Full-time,Remote,190600.0
+18.92,15.368773993320069,200,46.2,High School,Backend Developer,United States,Full-time,On-site,171600.0
+5.07,0.8133267529889814,5000,29.2,PhD,DevOps Engineer,United States,Full-time,On-site,179500.0
+11.8,7.4271243007221415,200,35.3,Master's,Frontend Developer,United States,Full-time,Remote,164100.0
+1.9,0.2033892713171952,200,31.1,PhD,Data Scientist,United States,Full-time,Hybrid,140000.0
+12.32,9.665748028560929,50,34.2,Master's,Frontend Developer,United States,Full-time,Hybrid,154000.0
+3.43,2.1879679806717425,1000,26.0,Master's,ML Engineer,United Kingdom,Intern,On-site,84200.0
+11.3,10.076017492249274,200,36.9,Bachelor's,Frontend Developer,United States,Full-time,On-site,146500.0
+11.45,10.643729685740379,200,37.6,Master's,Data Scientist,United States,Intern,Hybrid,108600.0
+9.32,4.619904945962427,200,35.8,PhD,Software Engineer,United Kingdom,Contract,Remote,162500.0
+10.45,6.0100558569721,5000,38.2,High School,Software Engineer,United Kingdom,Full-time,On-site,139600.0
+15.28,11.393206433361538,5000,40.9,Bachelor's,DevOps Engineer,India,Full-time,Remote,132800.0
+15.98,13.391692393561355,1000,42.4,High School,Software Engineer,United States,Full-time,Hybrid,157800.0
+9.84,7.386960422440641,1000,34.1,PhD,DevOps Engineer,United States,Full-time,On-site,183700.0
+11.99,9.341271669087511,5000,37.2,Bachelor's,Frontend Developer,United States,Full-time,On-site,159900.0
+18.62,15.937159932114554,10000,43.9,Master's,Software Engineer,United States,Full-time,On-site,198900.0
+2.39,0.21718457651154832,1000,28.0,Master's,DevOps Engineer,United States,Full-time,On-site,154200.0
+2.34,1.6812258355396625,5000,29.7,PhD,Software Engineer,Germany,Full-time,Hybrid,147400.0
+1.75,1.12168073565732,5000,28.4,Bachelor's,Software Engineer,United States,Intern,On-site,74700.0
+13.16,8.398751420771584,5000,38.3,Master's,Backend Developer,Germany,Full-time,On-site,175300.0
+8.37,5.959846202068246,1000,30.9,PhD,Data Scientist,United States,Full-time,Hybrid,176800.0
+15.49,10.723972375474055,50,40.7,High School,Data Scientist,United States,Contract,Hybrid,172600.0
+13.42,12.60211561144945,50,38.3,Master's,Data Scientist,India,Full-time,Hybrid,101200.0
+6.67,3.897917239800332,1000,32.2,Bachelor's,Backend Developer,United Kingdom,Full-time,Hybrid,133500.0
+17.97,16.9314137332423,1000,49.6,Master's,Software Engineer,United States,Full-time,On-site,194400.0
+15.25,13.984076969366992,1000,38.7,Bachelor's,Data Scientist,Germany,Contract,Hybrid,184400.0
+5.41,5.259727106194106,1000,31.7,Bachelor's,Backend Developer,United States,Full-time,On-site,142000.0
+7.28,6.685233446298944,1000,35.5,High School,ML Engineer,United States,Full-time,On-site,153900.0
+6.29,1.7057579618540215,5000,31.6,High School,Frontend Developer,India,Full-time,On-site,80900.0
+3.15,1.5423350425883413,50,35.2,High School,Data Scientist,United States,Full-time,Hybrid,111000.0
+2.96,0.0,200,26.8,Master's,Backend Developer,United States,Full-time,Hybrid,134200.0
+18.72,16.394929340053633,5000,44.7,Bachelor's,Frontend Developer,Canada,Full-time,On-site,185700.0
+8.76,6.757743773773608,5000,31.4,Bachelor's,ML Engineer,United States,Contract,Remote,204800.0
+7.67,5.010569543269659,10000,31.6,Master's,Data Scientist,United States,Full-time,Remote,183600.0
+14.59,13.653805276923292,5000,40.3,Master's,Backend Developer,United States,Contract,On-site,214100.0
+11.06,6.1169805074021175,5000,38.6,Bachelor's,Backend Developer,Australia,Full-time,Hybrid,158100.0
+18.72,14.628460656480684,200,44.7,PhD,Software Engineer,Germany,Intern,On-site,129900.0
+15.61,11.901926836342422,1000,44.4,Bachelor's,Backend Developer,United States,Full-time,Remote,184500.0
+9.59,7.2462035149302375,200,34.3,Master's,Software Engineer,United States,Full-time,On-site,158100.0
+7.53,6.76561438936832,1000,31.5,High School,Backend Developer,Germany,Full-time,On-site,136900.0
+19.73,15.126670708632162,5000,52.8,Master's,DevOps Engineer,United States,Full-time,On-site,219100.0
+14.36,12.653064663091362,200,40.5,PhD,Backend Developer,Canada,Full-time,On-site,169400.0
+19.02,18.76946655151533,1000,41.9,Master's,Frontend Developer,India,Full-time,Hybrid,130800.0
+2.37,0.6579816159468568,200,25.3,Master's,Data Scientist,United States,Full-time,Hybrid,138200.0
+17.01,13.03771484752058,200,39.2,Master's,DevOps Engineer,United States,Full-time,On-site,196500.0
+12.74,9.62645627505896,200,40.5,Bachelor's,Frontend Developer,United States,Full-time,Hybrid,150800.0
+2.44,0.0,50,26.3,Master's,DevOps Engineer,United States,Full-time,Remote,141300.0
+11.77,7.801823080688113,5000,37.2,Master's,Frontend Developer,United States,Full-time,Remote,175000.0
+13.72,12.660226944597287,1000,38.5,PhD,Backend Developer,United Kingdom,Full-time,Hybrid,179600.0
+0.25,0.0,5000,27.4,Bachelor's,Backend Developer,United States,Full-time,On-site,136000.0
+9.09,6.900051985398137,1000,31.5,High School,DevOps Engineer,Germany,Intern,On-site,88800.0
+16.51,13.31493175367918,200,38.3,Master's,DevOps Engineer,India,Full-time,Remote,123300.0
+5.91,5.89845613706629,200,31.6,High School,ML Engineer,United States,Full-time,Hybrid,146900.0
+9.17,4.20315750794411,5000,36.0,Bachelor's,Software Engineer,United States,Full-time,Hybrid,163200.0
+8.85,7.445518070179224,200,34.8,Bachelor's,Software Engineer,United States,Full-time,Remote,152800.0
+6.04,5.729684467299224,5000,28.6,Master's,Data Scientist,India,Full-time,On-site,94400.0
+18.37,16.07868979231743,50,45.4,Bachelor's,Software Engineer,United States,Contract,Hybrid,182100.0
+15.63,14.984849714089792,1000,38.4,Bachelor's,Data Scientist,India,Full-time,On-site,118800.0
+2.21,1.4483664492121213,5000,25.6,High School,Software Engineer,India,Full-time,On-site,70700.0
+19.94,16.77858593484895,200,42.1,PhD,DevOps Engineer,India,Full-time,Hybrid,146000.0
+17.58,15.615363042148832,200,46.5,Master's,Software Engineer,Australia,Full-time,On-site,166300.0
+5.68,1.0707377492250245,10000,32.6,High School,Backend Developer,India,Full-time,Remote,83200.0
+16.74,15.144217526959649,200,43.6,High School,ML Engineer,India,Full-time,On-site,115300.0
+2.13,0.0,1000,30.9,Master's,Data Scientist,India,Full-time,Remote,80300.0
+19.98,17.674502849225462,1000,53.4,Bachelor's,Frontend Developer,India,Contract,Hybrid,138600.0
+13.31,10.010243494353606,200,33.2,Master's,DevOps Engineer,India,Full-time,Hybrid,112900.0
+13.0,10.001523216420047,5000,35.8,Bachelor's,Frontend Developer,United Kingdom,Contract,Remote,176200.0
+1.81,0.0,5000,25.0,PhD,DevOps Engineer,Canada,Full-time,On-site,142300.0
+17.94,13.189694526877815,200,40.4,Bachelor's,Backend Developer,Germany,Full-time,On-site,175800.0
+0.58,0.0,5000,22.3,Master's,Frontend Developer,Canada,Full-time,On-site,118200.0
+4.82,3.9338224937536372,200,28.9,High School,Software Engineer,India,Full-time,On-site,68200.0
+2.86,0.0,50,24.2,PhD,DevOps Engineer,United States,Full-time,Remote,147300.0
+15.54,11.309962193460455,1000,41.5,PhD,Frontend Developer,India,Full-time,Hybrid,120000.0
+3.96,3.758731300300381,10000,29.1,Master's,Data Scientist,India,Full-time,On-site,96200.0
+18.21,15.961836557886599,50,44.7,Bachelor's,ML Engineer,Australia,Full-time,On-site,186800.0
+13.13,8.66756155156337,200,39.7,Bachelor's,Backend Developer,United States,Full-time,Hybrid,154700.0
+0.72,0.0,1000,27.5,Master's,Software Engineer,India,Full-time,Hybrid,67700.0
+0.11,0.0,5000,24.0,Master's,Frontend Developer,India,Contract,On-site,71900.0
+1.03,0.0,50,32.4,Bachelor's,Data Scientist,United Kingdom,Full-time,Remote,110600.0
+12.12,8.820021405994243,200,37.8,Bachelor's,Software Engineer,United Kingdom,Contract,Hybrid,155000.0
+16.03,14.51759859431036,1000,35.4,Bachelor's,Data Scientist,Germany,Full-time,Remote,192400.0
+4.77,0.03232200167003807,200,26.8,Master's,DevOps Engineer,Germany,Full-time,On-site,138400.0
+16.99,15.158322557217318,200,36.8,Master's,Data Scientist,United States,Full-time,Hybrid,195600.0
+1.14,0.0,200,26.2,Master's,Backend Developer,Australia,Full-time,On-site,122300.0
+16.02,14.00429897940459,1000,40.7,Master's,Frontend Developer,United States,Full-time,On-site,171300.0
+18.56,15.750905349685002,1000,42.2,Bachelor's,Software Engineer,India,Full-time,Hybrid,130400.0
+15.44,11.841087324892268,5000,46.5,Bachelor's,Frontend Developer,India,Full-time,Hybrid,125100.0
+13.96,11.41532924124323,1000,40.6,High School,Data Scientist,United States,Full-time,On-site,164300.0
+16.76,12.224568365452459,1000,43.9,Master's,Frontend Developer,United States,Full-time,Remote,181000.0
+0.8,0.0,10000,23.0,Bachelor's,Data Scientist,United States,Full-time,On-site,144800.0
+4.04,0.8046410092833742,1000,26.0,Bachelor's,Software Engineer,India,Full-time,Hybrid,69000.0
+2.5,0.7881878334997294,1000,27.6,Bachelor's,Frontend Developer,Canada,Full-time,Remote,116000.0
+10.09,8.049216658844934,5000,35.6,Bachelor's,Frontend Developer,United States,Full-time,Hybrid,157900.0
+14.9,12.699749458832239,200,34.3,Master's,DevOps Engineer,India,Contract,Remote,131100.0
+12.6,11.970964908438573,1000,37.1,Bachelor's,Frontend Developer,United States,Full-time,Hybrid,158100.0
+17.02,16.561381604704966,5000,42.1,High School,ML Engineer,United Kingdom,Contract,Remote,203500.0
+3.1,0.0,50,27.5,Master's,Data Scientist,United States,Full-time,Hybrid,132900.0
+14.69,11.412411308284739,1000,37.2,Bachelor's,Data Scientist,United States,Full-time,Hybrid,185000.0
+3.86,0.5454514289495234,200,27.2,Bachelor's,Backend Developer,United States,Full-time,On-site,134800.0
+5.42,5.3211677732865414,200,29.9,Bachelor's,ML Engineer,Canada,Full-time,Hybrid,137500.0
+14.2,12.5672657866411,1000,39.5,Master's,ML Engineer,Canada,Full-time,On-site,190700.0
+19.6,18.610950763704018,200,46.4,Bachelor's,Data Scientist,India,Full-time,Remote,128100.0
+12.23,8.339242887279939,5000,40.5,Master's,ML Engineer,Canada,Contract,On-site,207100.0
+1.09,0.0,5000,25.2,PhD,Data Scientist,United States,Full-time,On-site,151500.0
+12.33,11.096598113869263,5000,36.0,Master's,Software Engineer,United States,Intern,Remote,118000.0
+0.85,0.0,200,27.2,Bachelor's,Software Engineer,United States,Full-time,On-site,109400.0
+17.68,17.033185982708627,200,44.5,Master's,Backend Developer,United Kingdom,Full-time,On-site,173500.0
+14.19,12.814237371991434,200,37.9,Bachelor's,ML Engineer,United States,Full-time,Hybrid,189100.0
+3.46,2.7667275188329024,50,30.8,Bachelor's,Software Engineer,Australia,Full-time,On-site,108400.0
+1.83,0.41239616700385406,5000,29.8,Bachelor's,Backend Developer,United States,Full-time,On-site,135900.0
+3.67,0.2963172632536102,1000,32.5,Bachelor's,Software Engineer,United States,Full-time,Hybrid,124800.0
+19.6,15.048365449073739,200,49.9,High School,Software Engineer,United States,Intern,On-site,119500.0
+9.17,8.15738796037907,5000,31.6,Bachelor's,Software Engineer,United States,Full-time,On-site,158300.0
+15.68,12.969604825246403,200,40.7,High School,ML Engineer,India,Full-time,On-site,118300.0
+12.73,9.223044493782838,50,37.8,Bachelor's,DevOps Engineer,Canada,Full-time,On-site,146600.0
+11.45,6.6853876575721705,200,36.2,Master's,Data Scientist,United States,Full-time,On-site,159900.0
+2.9,0.0,1000,26.0,PhD,Data Scientist,Germany,Full-time,On-site,145700.0
+18.92,17.6444653448631,5000,39.5,High School,Data Scientist,Germany,Full-time,Hybrid,195000.0
+6.03,2.902609215430319,200,31.3,Master's,ML Engineer,United Kingdom,Full-time,Hybrid,150200.0
+11.56,9.95754419160992,5000,34.3,Bachelor's,Frontend Developer,Australia,Full-time,On-site,153300.0
+14.0,9.11935804654146,5000,39.3,High School,Data Scientist,India,Full-time,On-site,112200.0
+12.98,10.981619324181816,5000,35.6,Bachelor's,Backend Developer,India,Full-time,Remote,127800.0
+18.81,15.382861396194928,200,40.5,High School,DevOps Engineer,India,Full-time,Hybrid,117500.0
+2.97,2.853862088266208,50,28.7,Bachelor's,DevOps Engineer,Canada,Full-time,On-site,113500.0
+10.17,8.169692769326224,5000,35.6,Bachelor's,Backend Developer,India,Full-time,Hybrid,110200.0
+8.08,3.7044619333874422,200,34.8,Bachelor's,Frontend Developer,United States,Full-time,On-site,123100.0
+9.48,6.428862777833771,1000,41.0,Bachelor's,DevOps Engineer,India,Contract,Remote,115200.0
+2.38,0.16028556802011806,5000,28.2,High School,Frontend Developer,Australia,Full-time,Remote,118800.0
+2.68,0.0,50,29.1,Bachelor's,Data Scientist,United States,Full-time,Remote,131500.0
+5.56,1.2900781192638542,5000,27.3,High School,Software Engineer,India,Full-time,On-site,83200.0
+6.09,4.478921630885308,5000,27.2,Bachelor's,Software Engineer,United Kingdom,Full-time,On-site,133600.0
+8.56,5.837257989793303,1000,38.3,Bachelor's,DevOps Engineer,United States,Full-time,On-site,157100.0
+12.22,9.770878719537688,1000,34.4,Bachelor's,Backend Developer,Canada,Full-time,On-site,154000.0
+12.69,9.528987499425687,5000,34.6,Bachelor's,Data Scientist,United Kingdom,Contract,On-site,173900.0
+8.24,6.569443665206222,1000,33.1,High School,ML Engineer,Australia,Full-time,Hybrid,153100.0
+8.18,6.958974996170559,1000,32.9,PhD,Data Scientist,United States,Full-time,On-site,176500.0
+4.35,0.0,5000,26.6,High School,Frontend Developer,United States,Full-time,Remote,135200.0
+11.77,7.150627502507468,1000,35.9,High School,Backend Developer,India,Full-time,On-site,99100.0
+6.34,2.123385571190105,200,35.0,High School,DevOps Engineer,United States,Full-time,On-site,135700.0
+0.72,0.0,50,23.3,PhD,Data Scientist,United States,Full-time,Remote,139300.0
+8.37,4.645042371101557,200,29.2,Master's,ML Engineer,United States,Full-time,Hybrid,172600.0
+9.48,5.6566638571900025,1000,37.3,Master's,Software Engineer,United States,Full-time,On-site,159200.0
+4.51,0.6970495401867964,1000,31.0,PhD,DevOps Engineer,Germany,Full-time,Hybrid,157400.0
+11.45,9.046961845288466,1000,34.6,High School,Backend Developer,Germany,Full-time,On-site,148000.0
+11.32,9.037739027428643,200,31.6,PhD,Backend Developer,Germany,Full-time,On-site,159900.0
+14.04,12.838868619254983,5000,36.8,Bachelor's,ML Engineer,India,Full-time,Hybrid,128400.0
+12.96,9.73590402820355,5000,37.8,Master's,Data Scientist,United States,Full-time,On-site,191900.0
+13.05,11.603399319488329,200,41.5,Bachelor's,DevOps Engineer,United States,Full-time,Hybrid,177000.0
+6.32,5.030957951488228,1000,28.2,Bachelor's,ML Engineer,United States,Full-time,On-site,160200.0
+15.75,12.820193129519726,1000,40.5,PhD,Frontend Developer,United States,Full-time,Hybrid,187900.0
+10.98,8.930088058874784,1000,38.0,High School,Software Engineer,United States,Full-time,Remote,150400.0
+8.63,7.53571695602684,200,26.5,PhD,Data Scientist,United States,Full-time,On-site,167100.0
+12.52,8.439719916235845,5000,40.6,Bachelor's,Frontend Developer,United States,Full-time,On-site,168900.0
+7.21,2.90715040352812,10000,28.7,Master's,Software Engineer,United States,Full-time,On-site,163200.0
+10.25,9.411502401611095,1000,36.2,PhD,Software Engineer,Germany,Contract,Remote,189800.0
+14.73,14.692464836000001,5000,40.5,High School,Frontend Developer,Germany,Full-time,Hybrid,170200.0
+17.73,16.049350157353132,10000,46.0,PhD,Data Scientist,United Kingdom,Contract,Hybrid,217700.0
+18.42,14.43244582159624,200,45.1,Master's,Data Scientist,India,Full-time,On-site,121900.0
+10.07,5.8741306688283785,1000,27.9,Master's,Backend Developer,Germany,Full-time,On-site,155700.0
+10.41,9.718354649419753,1000,33.1,High School,Data Scientist,United States,Full-time,Hybrid,154900.0
+16.0,12.128320494084743,10000,41.4,Bachelor's,Software Engineer,Germany,Full-time,On-site,170100.0
+6.29,5.711479163452853,50,30.7,Master's,Software Engineer,United States,Full-time,Hybrid,135000.0
+16.75,14.799687049217354,1000,43.2,Bachelor's,Software Engineer,United States,Full-time,On-site,175500.0
+9.88,4.8869524249404215,5000,37.2,Bachelor's,Software Engineer,United States,Full-time,On-site,160700.0
+2.32,1.3570458838454509,200,29.1,Bachelor's,Frontend Developer,United States,Full-time,Hybrid,115600.0
+1.44,0.6701820871118678,5000,25.8,PhD,Data Scientist,United States,Full-time,Hybrid,157100.0
+16.84,14.725998337266033,200,36.3,High School,Software Engineer,India,Full-time,Hybrid,111800.0
+1.11,0.0,10000,24.7,Master's,Software Engineer,India,Full-time,On-site,82100.0
+5.61,0.9454960879337344,5000,31.9,PhD,ML Engineer,India,Full-time,Remote,106700.0
+6.68,1.7758942723348285,200,28.4,High School,DevOps Engineer,Germany,Full-time,Remote,132600.0
+3.46,3.111796817043027,5000,30.4,Bachelor's,ML Engineer,Canada,Full-time,Remote,149000.0
+6.28,5.590012413260474,200,34.0,Master's,Software Engineer,United States,Full-time,Hybrid,138200.0
+14.85,10.89631013052003,1000,40.2,High School,Data Scientist,India,Full-time,Hybrid,109500.0
+0.29,0.0,1000,20.0,Master's,ML Engineer,Canada,Full-time,Hybrid,142000.0
+16.54,12.115754702468196,5000,37.7,Master's,Data Scientist,United States,Full-time,On-site,197700.0
+17.13,13.812733713854566,50,47.8,Master's,DevOps Engineer,United States,Full-time,On-site,184900.0
+7.45,6.890775988096614,200,30.8,Bachelor's,Frontend Developer,United Kingdom,Full-time,Hybrid,116700.0
+3.07,0.0,1000,22.1,Master's,ML Engineer,Germany,Full-time,On-site,154500.0
+12.02,11.13821809995962,1000,40.7,Master's,DevOps Engineer,Canada,Full-time,On-site,174200.0
+2.39,0.2725230266017311,1000,27.4,Bachelor's,Data Scientist,Germany,Contract,Remote,151600.0
+7.3,4.53907535720335,50,35.6,Master's,Software Engineer,United States,Full-time,On-site,135400.0
+19.17,16.66616925459861,200,45.0,PhD,DevOps Engineer,Canada,Full-time,Hybrid,193200.0
+19.91,16.47918542192425,5000,46.3,Master's,DevOps Engineer,United States,Full-time,Hybrid,220300.0
+15.44,12.176566325653724,50,41.5,Bachelor's,Data Scientist,United States,Full-time,On-site,164900.0
+6.22,1.2597899723597257,200,33.3,Bachelor's,Backend Developer,India,Full-time,Remote,75400.0
+13.75,8.752890453879061,5000,45.6,High School,Data Scientist,United States,Full-time,On-site,170300.0
+14.11,11.527702986821794,50,42.0,Bachelor's,Backend Developer,India,Full-time,Remote,107200.0
+7.76,7.28400456519568,1000,28.0,High School,Frontend Developer,United States,Full-time,Remote,140600.0
+12.82,9.180783505156409,200,39.2,PhD,Frontend Developer,India,Full-time,On-site,97400.0
+0.21,0.0,5000,28.6,Bachelor's,Backend Developer,Germany,Full-time,On-site,128300.0
+4.18,2.588368061854898,1000,32.8,Master's,Frontend Developer,Germany,Contract,On-site,143800.0
+10.5,8.19395557081213,5000,34.2,Bachelor's,Backend Developer,Germany,Contract,On-site,170800.0
+3.28,1.1561153759227203,200,31.8,Bachelor's,Frontend Developer,Australia,Full-time,On-site,110300.0
+3.32,3.062904227215353,1000,31.1,Bachelor's,Data Scientist,Canada,Full-time,Remote,134600.0
+16.73,13.368677843882777,5000,49.4,Bachelor's,ML Engineer,India,Full-time,On-site,132600.0
+19.78,18.013311524657663,200,42.5,Master's,ML Engineer,India,Full-time,Remote,146300.0
+11.12,7.1826806268424885,200,34.6,PhD,Backend Developer,United States,Full-time,On-site,169000.0
+16.78,12.61939962359007,50,40.9,PhD,Software Engineer,United States,Full-time,Remote,183900.0
+19.81,15.703846067010772,10000,43.3,Bachelor's,Data Scientist,United States,Full-time,On-site,208200.0
+2.83,0.7466700098005994,1000,25.2,Master's,DevOps Engineer,United States,Intern,On-site,77400.0
+8.96,7.352271588795503,1000,25.7,High School,Software Engineer,United States,Full-time,Hybrid,143200.0
+7.85,4.105896101664726,1000,31.5,PhD,Backend Developer,United States,Full-time,On-site,164000.0
+1.6,0.0,1000,27.7,Bachelor's,Backend Developer,Germany,Full-time,Remote,129400.0
+15.11,12.65371276804317,1000,38.6,Bachelor's,ML Engineer,United States,Full-time,On-site,197100.0
+8.68,4.214844902318484,1000,39.5,Bachelor's,Software Engineer,India,Full-time,Hybrid,85100.0
+9.39,8.670456519607209,1000,34.4,High School,Software Engineer,United States,Full-time,Hybrid,139600.0
+3.01,0.0,200,31.9,Bachelor's,Data Scientist,India,Full-time,Hybrid,57900.0
+3.62,3.1395238351405936,5000,29.4,PhD,Software Engineer,United States,Full-time,On-site,156100.0
+18.14,17.37237238972693,5000,45.6,Master's,Software Engineer,Canada,Full-time,On-site,184200.0
+0.89,0.0,200,26.7,PhD,Software Engineer,United States,Full-time,On-site,127900.0
+4.66,4.322407599062925,1000,33.8,High School,Data Scientist,India,Full-time,On-site,78600.0
+5.84,5.575964492999448,50,31.0,Master's,DevOps Engineer,United States,Intern,On-site,80600.0
+9.8,9.797406279171472,10000,36.3,Bachelor's,Backend Developer,United Kingdom,Full-time,Remote,159100.0
+11.73,9.548416701528684,5000,37.8,Bachelor's,Software Engineer,United States,Full-time,Hybrid,168800.0
+9.87,5.99688059353885,5000,34.0,Bachelor's,Backend Developer,Germany,Full-time,Hybrid,166800.0
+1.68,1.5058082486004216,200,27.9,Bachelor's,Software Engineer,United States,Full-time,On-site,122300.0
+4.87,1.608711967670723,200,36.6,Master's,ML Engineer,Germany,Intern,On-site,84000.0
+16.87,12.75436341291907,200,41.1,Bachelor's,Software Engineer,Canada,Full-time,Hybrid,161100.0
+12.75,11.909995757110645,50,39.0,Bachelor's,Software Engineer,United States,Contract,On-site,157300.0
+12.98,12.24568132589298,50,41.8,Master's,Software Engineer,United States,Full-time,On-site,161000.0
+13.4,9.09599513189732,50,41.8,High School,ML Engineer,United States,Full-time,Hybrid,161700.0
+15.26,11.144376950249526,10000,40.3,PhD,ML Engineer,United States,Full-time,Hybrid,230600.0
+1.16,0.0,50,20.0,Bachelor's,ML Engineer,Australia,Full-time,Remote,126000.0
+7.33,3.2340006035300988,50,33.9,Master's,Backend Developer,United States,Full-time,On-site,138800.0
+10.79,10.326219612877525,5000,29.1,Master's,Frontend Developer,United States,Full-time,Hybrid,170700.0
+6.77,4.797592410306228,1000,36.2,Master's,Frontend Developer,Australia,Full-time,On-site,136200.0
+16.89,13.201012219468137,5000,42.4,Master's,Backend Developer,United States,Full-time,On-site,200200.0
+9.65,8.362740203380184,1000,37.6,PhD,Backend Developer,United States,Intern,Hybrid,103700.0
+15.37,11.608355427832235,5000,37.7,Master's,ML Engineer,India,Full-time,On-site,132600.0
+17.04,14.51910697804593,1000,37.4,Bachelor's,Data Scientist,United Kingdom,Full-time,Hybrid,183000.0
+10.1,6.348670060258835,1000,35.9,High School,ML Engineer,India,Full-time,On-site,110100.0
+18.19,15.866601810713354,1000,43.1,Master's,Software Engineer,Canada,Full-time,On-site,181600.0
+11.74,9.900478298890912,1000,35.3,High School,DevOps Engineer,Australia,Contract,Remote,167900.0
+17.01,15.91405391760684,200,42.3,Bachelor's,ML Engineer,United States,Full-time,On-site,192800.0
+6.81,5.768103292824924,1000,40.1,High School,Frontend Developer,Australia,Full-time,Remote,127100.0
+9.98,6.22254594714302,200,37.5,Bachelor's,DevOps Engineer,India,Full-time,On-site,98300.0
+10.63,10.035448259830199,5000,38.8,Bachelor's,ML Engineer,United Kingdom,Full-time,Remote,176700.0
+2.1,1.6700882494452745,200,29.6,Master's,DevOps Engineer,United States,Full-time,On-site,140400.0
+7.97,7.088543174889349,200,37.4,Master's,ML Engineer,United States,Full-time,On-site,173600.0
+18.35,17.473267442730393,200,42.8,Master's,Software Engineer,Germany,Contract,Remote,203800.0
+12.62,8.504461885965501,5000,31.5,Bachelor's,Software Engineer,Canada,Intern,On-site,105900.0
+3.55,1.5574668826289377,200,28.0,Bachelor's,Software Engineer,Canada,Full-time,On-site,104200.0
+6.78,1.8280577131975884,1000,34.2,Master's,DevOps Engineer,United Kingdom,Full-time,Remote,157400.0
+3.83,3.143943711046938,5000,25.9,Bachelor's,ML Engineer,Germany,Full-time,Hybrid,164100.0
+0.5,0.0,50,25.0,Master's,Data Scientist,United States,Full-time,Hybrid,124900.0
+18.55,16.306352463993747,5000,41.5,Bachelor's,ML Engineer,United States,Full-time,Hybrid,220800.0
+8.96,6.995409116514631,200,38.5,PhD,Data Scientist,United States,Contract,Remote,191500.0
+6.15,1.7745790047295884,200,33.4,High School,DevOps Engineer,United States,Full-time,Remote,135400.0
+11.97,7.092021770858002,1000,38.9,Master's,DevOps Engineer,United States,Full-time,Hybrid,188100.0
+0.15,0.0,5000,27.0,Master's,Software Engineer,India,Full-time,On-site,74600.0
+5.56,4.5984966048243345,200,30.4,Bachelor's,Frontend Developer,India,Full-time,On-site,72300.0
+14.06,12.95601039395533,1000,39.7,Master's,ML Engineer,Canada,Full-time,Hybrid,197900.0
+12.68,9.399630604524683,200,34.1,High School,Software Engineer,United States,Full-time,Remote,145500.0
+19.64,18.194582091809043,1000,38.1,Master's,DevOps Engineer,Germany,Full-time,Hybrid,206800.0
+12.41,8.7363743460971,1000,37.9,Master's,Software Engineer,India,Full-time,On-site,107800.0
